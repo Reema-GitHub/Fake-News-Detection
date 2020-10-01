@@ -1,0 +1,51 @@
+13th April
+************
+Modifications in project proposal and fixing the approach
+
+15th April 
+************
+Clarifications:
+About project approach
+Models which we are going to use (Nave Bayes, SVM)
+Feature extractions using TF-IDF/Countervectorization/LIWCS
+
+
+Starting data Collection approach:
+Web scrapping 3 reputed newspapers
+Collecting Fake news data
+Merging them into datasets
+
+16th April
+***************
+Group Call (Targets):
+Before Saturday afternoon:
+50k of dataset with both genuine and fake news 
+
+Fill in or remove missing column rows
+
+Data cleaning
+do Tf-idf, vectorization
+
+Feature engineering to add more columns
+
+One hot encoding
+
+Weekend:
+Start running Model
+
+References :
+https://towardsdatascience.com/sentiment-analysis-with-python-part-1-5ce197074184
+
+https://www.clarityinsights.com/blog/using-nlp-and-ai-to-detect-fake-news-with-99-accuracy
+
+https://scikit-learn.org/stable/modules/feature_extraction.html
+
+https://machinelearningmastery.com/prepare-text-data-machine-learning-scikit-learn/
+
+https://www.datacamp.com/community/tutorials/text-analytics-beginners-nltk
+
+April 20
+*********************
+Data Cleaning : Finalizing the csvs
+Implemented feature engineering by adding labels to the dataset
+Performed Countvectorization and TfIdfVectorization
